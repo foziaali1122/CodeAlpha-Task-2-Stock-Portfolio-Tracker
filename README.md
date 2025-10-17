@@ -30,5 +30,5 @@ A simple yet powerful **Stock Portfolio Tracker** built in Python. Users can inp
 ---
 
 ## 🎥 Portfolio Preview
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](https://github.com/foziaali1122/CodeAlpha-Task-2-Stock-Portfolio-Tracker/blob/main/Python%20Portfolio.png)
 
